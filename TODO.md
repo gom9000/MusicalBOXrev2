@@ -5,7 +5,7 @@ This file contains the todo list of **MusicalBOX "rev2"** project.
 ## Next Tasks
 
 ### 1.0.0 "*mercury*" xxxx-xx-xx Feature release
-- [ ] Add hardware front-panel design, schematic and pcb layout
+- [x] Add hardware front-panel design, schematic and pcb layout
 - [ ] Add hardware rear-panel/mainboard design, schematic and pcb layout
 - [ ] Add software Rpi AudioDevice selection by name and volume setting
 - [ ] Add software Rpi GPIO in (switch-array) and out (led-array) loop management
